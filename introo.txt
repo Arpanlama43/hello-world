@@ -1,0 +1,5 @@
+AJAX = Asynchronous JavaSCript And XML.
+Ajax is not a programming languages 
+ajax just uses a combination of:
+A browser built- in XMLhttpRequest object(to request data from a webserver )
+JavaSCript and HTML DOM (to display or uses the data)
